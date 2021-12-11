@@ -1,0 +1,2 @@
+# weblogic_deploy
+一键部署具有admin server功能的weblogic服务
