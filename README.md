@@ -1,6 +1,8 @@
 # weblogic_deploy
 一键部署具有admin server功能的weblogic服务  
 
+需要fmw_12.2.1.3.0_wls.jar，放同目录下  
+
 1.修改：info.properties  
 2.执行：python create_weblogic_server.py  
 
